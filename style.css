@@ -1,0 +1,29 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#category
+{
+font-size: 20px;
+width: 60%;
+background-color: yellowgreen;
+height: 5%;
+border-radius: 20px;
+padding: 10px;
+color: white;
+}
+
+body {
+    background-size:cover;
+    background-position:center;
+}
+
+canvas {
+    box-shadow: 10x 10px 10px grey;
+    border-radius: 10px;
+}
+
